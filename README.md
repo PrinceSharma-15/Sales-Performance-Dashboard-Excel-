@@ -6,7 +6,7 @@ I created this interactive Store Sales Dashboard in Microsoft Excel to analyze s
 The dashboard allows users to filter data by month, product category, and sales channel, making it easy to explore different parts of the dataset.
 
 # Dashboard Preview
-[Dashboard](dashboard.png)
+[Dashboard](https://github.com/PrinceSharma-15/Sales-Performance-Dashboard-Excel-/blob/main/StoreSales%20Dashboard%20Snapshot.png)
 
 # What You Can Explore
 This dashboard answers questions like:
